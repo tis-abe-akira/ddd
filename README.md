@@ -50,11 +50,11 @@
 
 https://speakerdeck.com/masuda220/learning-domain-driven-design-2024-8-bpstuty-204
 
-###　要点１ 本書の構成：事業方針とソフトウェア設計
+### 要点１ 本書の構成：事業方針とソフトウェア設計
 
 ![](./pics/msd01.png)
 
-###　要点２ 業務領域のカテゴリーを特定する
+### 要点２ 業務領域のカテゴリーを特定する
 
 ![](./pics/msd02.png)
 
