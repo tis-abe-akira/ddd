@@ -381,21 +381,24 @@ Step1で洗い出した業務イベントを確認し、時系列に並べます
 
 ## reference
 
-https://speakerdeck.com/masuda220/learning-domain-driven-design-2024-8-bpstuty-204
+[翻訳者の増田さんのスライド](https://speakerdeck.com/masuda220/learning-domain-driven-design-2024-8-bpstuty-204)
 
-
-P.8 本書の構成：事業方針とソフトウェア設計
-
-P.13 業務領域のカテゴリーを特定する
-
-P.14 事業戦略の視点から業務領域を分類
-
-P.24 「同じ言葉」の効果
+- P.8 本書の構成：事業方針とソフトウェア設計
+- P.13 業務領域のカテゴリーを特定する
+- P.14 事業戦略の視点から業務領域を分類
+- P.24 「同じ言葉」の効果
 
 https://github.com/vladikk/learning-ddd
 
 
 https://dl.ebooksworld.ir/books/Learning.Domain-Driven.Design.9781098100131.EBooksWorld.ir.pdf
+
+![evans-ddd](./pics/evans-ddd.jpg)  
+[エリック・エヴァンスのドメイン駆動設計](https://www.amazon.co.jp/%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88-Architects%E2%80%99Archive-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%AE%E5%AE%9F%E8%B7%B5-%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%B9/dp/4798121967/ref=asc_df_4798121967?mcid=dc8326582b8d305aa2f2459ef5fe3968&th=1&psc=1&tag=jpgo-22&linkCode=df0&hvadid=707442440784&hvpos=&hvnetw=g&hvrand=15855871853317055247&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009298&hvtargid=pla-525481409888&psc=1&gad_source=1)
+
+
+![msa](./pics/msa.jpg)
+[マイクロサービスパターン](https://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3-%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E8%A7%A3%E8%AA%AC-impress-top-gear/dp/4295008583/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1M86Y5K5T7CQ6&dib=eyJ2IjoiMSJ9.O--sh5WODPvTSUs94tyc6wwv78EUIlsxcOmGcmsYsnvCb5n32Hhw1-ZGzhIhKcjJQQpunsAucOiD9IQvTrk4_hY8DDG_l6NMvSGoLtZ6vrBGha7uOqtM9PDj--Ze3sELpdKLViESJ5ZDLtXI_1tcyA7ccwArie-3goqm9L9yM5fIxG7awxazGPMvP41y5i0Uzmm_z3X0ZwEya6KMxYUVNWpOdeLjzSHcyurfx7n9uQ8.TZVqHjV3KBaF4CvhUQggoOqFvZ3IgbGXpnWxB-bC2Gg&dib_tag=se&keywords=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3&qid=1734307462&s=books&sprefix=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%2Cstripbooks%2C261&sr=1-1)
 
 ## Appendix
 
